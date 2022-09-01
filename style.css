@@ -146,4 +146,27 @@ p {
     h3 {
         font-size: 12px;
     }
+
+        .navigation-links {
+
+            margin-top: 20px;
+            justify-content: center;
+            margin-bottom: 24px;
+        }
+
+        .navigation-links a {
+            margin: 10px;
+             padding: 10px 5px;
+
+        }
+.app-link {
+    margin: 10px;
+    padding: 10px 5px;
+    margin-left: 0px;
+}
+.project-image {
+    display: none;
+}
+
+
 }
