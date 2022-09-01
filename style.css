@@ -24,6 +24,7 @@ h1 {
     font-size: 96px;
 }
 
+
 h2 {
     font-size: 48px;
     padding-top: 40px;
@@ -130,4 +131,19 @@ p {
 
 #contact {
     margin-top: 10px;
+}
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 48px;
+    }
+
+    h2 {
+        font-size: 24px;
+        padding-top: 20px;
+    }
+
+    h3 {
+        font-size: 12px;
+    }
 }
