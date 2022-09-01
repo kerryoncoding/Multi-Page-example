@@ -168,5 +168,8 @@ p {
     display: none;
 }
 
+.email-link {
+    font-size: 20px;
+}
 
 }
